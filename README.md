@@ -31,12 +31,14 @@ Quick SOS Web Links.
 [Drupal](https://github.com/drupal/drupal) | For ambitious digital experiences that reach your audience across multiple channels. |
 [eZ Platform](https://github.com/ezsystems/ezplatform/) | Meta repository that pulls in all dependencies for clean distribution of eZ Platform. |
 [Fork](https://github.com/forkcms/forkcms) | Fork is an easy to use open source CMS using Symfony Components. |
+[GetSimpleCMS](https://github.com/GetSimpleCMS/GetSimpleCMS) | GetSimple CMS is a flatfile CMS that works fast and efficient and has the best UI around, it is written in PHP. |
 [Grav](https://github.com/getgrav/grav/) | Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS. |
 [Kirby](https://getkirby.com) | Kirby is a file‑based CMS. Easy to setup. Easy to use. Flexible as hell. |
 [Koken](http://koken.me) | Built for photography. Koken treats them with the attention they deserve by including a full-featured management interface that looks and feels like a desktop application. |
 [LavaLite](https://github.com/LavaLite/cms) | developed with Laravel framework. Multilingual PHP. |
 [October](https://github.com/octobercms/october) | Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. |
-[Pico](https://github.com/picocms/Pico/) | we recommend using Composer. |
+[PluXml](https://github.com/pluxml/PluXml) | PluXml, Blog Engine and CMS to XML without database |
+[Pico](https://github.com/picocms/Pico/) | We recommend using Composer. |
 [Typo3](https://github.com/TYPO3/TYPO3.CMS/) | TYPO3 CMS is an Open Source Enterprise CMS. |
 [Wordpress](https://github.com/WordPress/WordPress/) | Software you can use to create a beautiful website, blog, or app. |
 [Zwii](https://github.com/remijean/ZwiiCMS) | CMS without a database (Flat-File) that allows its users to easily create and manage a website without any programming knowledge. |
