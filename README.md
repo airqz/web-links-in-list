@@ -71,7 +71,6 @@ Quick SOS Web Links.
 
 #####  [✨ Back Top to Search Open Source ✨](https://github.com/airqz/web-links-in-list#web-links-in-list)
 
-
 | Title/Link        | Features  |
 | ------------------|----------:|
 [Hugo](https://github.com/gohugoio/hugo) | A Fast and Flexible Static Site Generator. |
@@ -103,7 +102,6 @@ Quick SOS Web Links.
 [React-virtualized](https://github.com/bvaughn/react-virtualized) | React components for efficiently rendering large lists and tabular data. |
 [Reactjs-components](https://github.com/stangaone1/reactjs-components) | A beautiful, materialized and flexible React Select control. |
 
-
 | Title/Link        | Features  |
 | ------------------|----------:|
 [Markdown](https://github.com/dart-lang/markdown) | A portable Markdown library written in Dart. It can parse Markdown into HTML on both the client and server. |
@@ -111,7 +109,6 @@ Quick SOS Web Links.
 ### Framework-Cross-platform-UI
 
 #####  [✨ Back Top to Search Open Source ✨](https://github.com/airqz/web-links-in-list#web-links-in-list)
-
 
 | Title/Link        | Features  |
 | ------------------|----------:|
@@ -192,7 +189,6 @@ Quick SOS Web Links.
 
 #####  [✨ Back Top to Search Open Source ✨](https://github.com/airqz/web-links-in-list#web-links-in-list)
 
-
 | Title/Link        | Features  |
 | ------------------|----------:|
 [Phaser](https://github.com/photonstorm/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. |
@@ -206,8 +202,12 @@ Quick SOS Web Links.
 
 | Title/Link        | Features  |
 | ------------------|----------:|
+[Bower](https://github.com/bower/bower) | A package manager for the web and front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. |
 [Cargo](https://github.com/rust-lang/cargo) | The Rust package manager. |
 [Yarn](https://github.com/yarnpkg/yarn/) | Fast, reliable, and secure dependency management. |
+
+
+The package manager for Windows
 
 ### Analytics-Database-Graphs
 
