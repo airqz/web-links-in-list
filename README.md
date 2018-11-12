@@ -158,6 +158,9 @@ Quick SOS Web Links.
 
 | Title/Link        | Features  |
 | ------------------|----------:|
+[Hackathon Starter](https://github.com/sahat/hackathon-starter) | A boilerplate for Node.js web applications. |
+[HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) | A professional front-end template for building fast, robust, and adaptable web apps or sites. |
+[MelonJS boilerplate](https://github.com/melonjs/boilerplate) | Video autoscaling, mobile optimized HTML/CSS, swiping disabled on iOS devices, debug Panel (if #debug). |
 [Skeleton](https://github.com/dhg/Skeleton) | Skeleton is a simple, responsive boilerplate to kickstart any responsive project. |
 
 #### Front-end web app
@@ -205,9 +208,6 @@ Quick SOS Web Links.
 [Bower](https://github.com/bower/bower) | A package manager for the web and front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. |
 [Cargo](https://github.com/rust-lang/cargo) | The Rust package manager. |
 [Yarn](https://github.com/yarnpkg/yarn/) | Fast, reliable, and secure dependency management. |
-
-
-The package manager for Windows
 
 ### Analytics-Database-Graphs
 
