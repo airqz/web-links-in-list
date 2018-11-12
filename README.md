@@ -38,7 +38,7 @@ Quick SOS Web Links.
 [LavaLite](https://github.com/LavaLite/cms) | developed with Laravel framework. Multilingual PHP. |
 [October](https://github.com/octobercms/october) | Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. |
 [PluXml](https://github.com/pluxml/PluXml) | PluXml, Blog Engine and CMS to XML without database |
-[Pico](https://github.com/picocms/Pico/) | We recommend using Composer. |
+[Pico](https://github.com/picocms/Pico/) | Simple, blazing fast, flat file CMS. we recommend using Composer. |
 [Typo3](https://github.com/TYPO3/TYPO3.CMS/) | TYPO3 CMS is an Open Source Enterprise CMS. |
 [Wordpress](https://github.com/WordPress/WordPress/) | Software you can use to create a beautiful website, blog, or app. |
 [Zwii](https://github.com/remijean/ZwiiCMS) | CMS without a database (Flat-File) that allows its users to easily create and manage a website without any programming knowledge. |
