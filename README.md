@@ -126,6 +126,7 @@ Quick SOS Web Links.
 [MaterializeCSS](https://github.com/Dogfalo/materialize) | Materialize, a CSS Framework based on material design. |
 [Mini.css](https://github.com/Chalarangelo/mini.css) | A minimal, responsive, style-agnostic CSS framework! |
 [Milligram](https://github.com/milligram/milligram) | Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code. Hope you enjoy! |
+[Ness.css](https://github.com/BcRikko/NES.css) | NES.css is a NES-style(8bit-like) CSS Framework. |
 [Pure](https://github.com/pure-css/pure/) | A set of small, responsive CSS modules that you can use in every web project. |
 [susy](https://github.com/oddbird/susy) | Responsive layout toolkit for Sass. usy is a design-agnostic set of tools for creating powerful, custom layouts. |
 
