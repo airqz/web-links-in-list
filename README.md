@@ -14,7 +14,6 @@ Quick SOS Web Links.
   * [Analytics-Database-Graphs](#analytics-database-graphs)
  * [Contributing](#Contributions)
 
-
 ## 2018
 
 ### Content management system
@@ -147,8 +146,8 @@ Quick SOS Web Links.
 
 | Title/Link        | Features  |
 | ------------------|----------:|
-[Kivy](https://kivy.org/) | Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. |
 [App-framework](https://github.com/scriptPilot/app-framework) | iOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source! |
+[Kivy](https://kivy.org/) | Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps. |
 
 ### Building web applications-Web template systems
 
@@ -176,17 +175,28 @@ Quick SOS Web Links.
 
 | Title/Link        | Features  |
 | ------------------|----------:|
-[Mean](https://github.com/linnovate/mean) | The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications. |
-[Play Framework](https://github.com/playframework/playframework) | Build scalable web applications with Java and Scala. |
+
+[Adonis.js](https://github.com/adonisjs) |  Node.js MVC framework that runs on all major operating systems. It offers a stable eco-system to write a server-side web application so that you can focus on business needs over finalizing which package to choose or not. |
+[Derby.js](https://github.com/derbyjs/derby) | MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers . |
+[Express.js](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. |
+[Hapi.js](https://github.com/hapijs/hapi) | Just like Express, hapi is a simple to use configuration-centric framework with built-in support for input validation, caching, authentication, and other essential facilities for building web and services applications. hapi enables developers to focus on writing reusable application logic in a highly modular and prescriptive approach. |
 [Ionic](https://github.com/ionic-team/ionic) | Build amazing native and progressive web apps with open web technologies. One app running on everything. |
+[Koa.js](https://github.com/koajs/koa) | Expressive HTTP middleware framework for node.js to make web applications and APIs more enjoyable to write. Koa's middleware stack flows in a stack-like manner, allowing you to perform actions downstream then filter and manipulate the response upstream. |
+[LoopBack.js](https://github.com/strongloop/loopback) | LoopBack makes it easy to build modern applications that require complex integrations. |
+[Mean](https://github.com/linnovate/mean) | The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications. |
+[Meteor.js](https://github.com/meteor/meteor) | Meteor, the JavaScript App Platform. |
+[Nest.js](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) heavily inspired by Angular. |
+[Play Framework](https://github.com/playframework/playframework) | Build scalable web applications with Java and Scala. |
+[Sails.js](https://github.com/balderdashy/sails) | Sails.js is a web framework that makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails, but with support for the more modern, data-oriented style of web app & API development. It's especially good for building realtime features like chat. |
+[Total.js](https://github.com/totaljs/framework) | Framework for Node.js platfrom written in pure JavaScript similar to PHP's Laravel or Python's Django or ASP.NET MVC. It can be used as web, desktop, service or IoT application. |
 
 #### Template engine
 
 | Title/Link        | Features  |
 | ------------------|----------:|
-[Twig](https://github.com/twigphp/Twig) | The flexible, fast, and secure template language for PHP. |
 [FreeMarker](https://github.com/apache/freemarker) | Generic tool to generate text output (anything from HTML to auto generated source code) based on templates. It's a Java package, a class library for Java programmers. |
 [Thymeleaf](https://github.com/thymeleaf/thymeleaf) | Is a modern server-side Java template engine for both web and standalone environments. |
+[Twig](https://github.com/twigphp/Twig) | The flexible, fast, and secure template language for PHP. |
 
 ### Game-WebGL
 
@@ -194,8 +204,8 @@ Quick SOS Web Links.
 
 | Title/Link        | Features  |
 | ------------------|----------:|
-[Phaser](https://github.com/photonstorm/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. |
 [FREECIV](https://github.com/freeciv/freeciv-web) | Game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents. |
+[Phaser](https://github.com/photonstorm/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. |
 
 ### Package Manager
 
@@ -226,9 +236,7 @@ Quick SOS Web Links.
 [Ferret](https://github.com/MontFerret/ferret) | Ferret is a web scraping system aiming to simplify data extraction from the web for such things like UI testing, machine learning and analytics. |
 [Tracing Framework](https://github.com/google/tracing-framework) | The Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications. You spend a small amount of time instrumenting your code and it helps you discover performance problems, track regressions, and build buttery-smooth 60fps web apps. |
 
-
 ## Contributions
-
 
 To add a project: Fork the project (https://help.github.com/articles/fork-a-repo/)
 
