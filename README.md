@@ -113,6 +113,7 @@ Quick SOS Web Links.
 | ------------------|----------:|
 [Asciidoctor](https://github.com/asciidoctor/asciidoctor) | Publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. |
 [Asylo](https://github.com/google/asylo) | An open and flexible framework for enclave applications. |
+[Flutter](https://github.com/flutter/flutter) | Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source. |
 [Lapis](https://github.com/leafo/lapis) | Web framework for Lua and OpenResty written in MoonScript. |
 [Spring](https://github.com/spring-projects/spring-framework) | The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform. |
 
